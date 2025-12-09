@@ -1,28 +1,43 @@
 name: Run dublok/github.action.cryptomarketdata
 
 on:
-  # schedule:
-  #   - cron: '5 0 * * *'   # Runs daily at 00:05 UTC
-  #   - cron: '30 0 * * *'  # Runs daily at 00:30 UTC
-  #   - cron: '0 1 * * *'   # Runs daily at 01:00 UTC
-  #   - cron: '0 2 * * *'   # Runs daily at 02:00 UTC
+  schedule:
+    # Fallback schedule - runs every 6 hours as safety net
+    # Only starts if no workflow is currently running
+    - cron: '0 */6 * * *'
+  
   workflow_dispatch:
     inputs:
-      reason:
-        description: 'The reason for running the workflow'
-        required: true
-        default: 'Manual run'
+      triggered_by:
+        description: 'What triggered this run'
+        required: false
+        default: 'manual'
+      previous_run:
+        description: 'Previous run ID (for auto-continuation)'
+        required: false
+
+# Concurrency ensures only ONE job runs at a time
+# cancel-in-progress: false means new runs WAIT (queue) instead of canceling current
+# This protects against cron + dispatch collision
+concurrency:
+  group: cryptomarketdata-collector
+  cancel-in-progress: false
 
 permissions:
   contents: write
+  actions: write
 
 jobs:
   run:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
+      - name: Log trigger information
+        run: |
+          echo "Triggered by: ${{ github.event.inputs.triggered_by || 'schedule' }}"
+          echo "Previous run: ${{ github.event.inputs.previous_run || 'N/A' }}"
+          echo "Current run: ${{ github.run_id }}"
+          echo "Workflow file: ${{ github.workflow }}"
 
       - name: Log in to Docker Hub
         uses: docker/login-action@v3
@@ -31,20 +46,22 @@ jobs:
           password: ${{ secrets.DOCKER_TOKEN }}
 
       - name: Pull and Run Docker Container
+        env:
+          MAX_RUNTIME: "5h55m"
+          OVERLAP_TRIGGER_BEFORE: "5m"
         run: |
           docker pull dublok/github.action.cryptomarketdata:beta
           docker run --rm \
             --network host \
             -e GITHUB_TOKEN="${{ secrets.GITHUB_TOKEN }}" \
-            -e GITHUB_REPO_URL="https://github.com/${{ github.repository }}" \
-            -e GITHUB_BRANCH="${{ github.ref_name }}" \
+            -e GITHUB_REPOSITORY="${{ github.repository }}" \
+            -e GITHUB_REF_NAME="${{ github.ref_name }}" \
+            -e GITHUB_RUN_ID="${{ github.run_id }}" \
+            -e GITHUB_ACTIONS="true" \
+            -e WORKFLOW_FILENAME="${{ github.workflow }}.yml" \
+            -e MAX_RUNTIME="${MAX_RUNTIME}" \
+            -e OVERLAP_TRIGGER_BEFORE="${OVERLAP_TRIGGER_BEFORE}" \
             -e HTTP_PROXY="${{ secrets.HADES_PROXY }}" \
             -e HTTPS_PROXY="${{ secrets.HADES_PROXY }}" \
             -e ALL_PROXY="${{ secrets.HADES_PROXY }}" \
             dublok/github.action.cryptomarketdata:beta
-
-      - name: Cleanup
-        if: always()
-        run: |
-          docker stop warp || true
-          docker rm warp || true
