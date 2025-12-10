@@ -49,6 +49,7 @@ jobs:
         env:
           MAX_RUNTIME: "5h55m"
           OVERLAP_TRIGGER_BEFORE: "5m"
+          WORKFLOW_FILENAME: "build-and-run.yml"
         run: |
           docker pull dublok/github.action.cryptomarketdata:beta
           docker run --rm \
@@ -58,7 +59,7 @@ jobs:
             -e GITHUB_REF_NAME="${{ github.ref_name }}" \
             -e GITHUB_RUN_ID="${{ github.run_id }}" \
             -e GITHUB_ACTIONS="true" \
-            -e WORKFLOW_FILENAME="${{ github.workflow }}.yml" \
+            -e WORKFLOW_FILENAME="${WORKFLOW_FILENAME}" \
             -e MAX_RUNTIME="${MAX_RUNTIME}" \
             -e OVERLAP_TRIGGER_BEFORE="${OVERLAP_TRIGGER_BEFORE}" \
             -e HTTP_PROXY="${{ secrets.HADES_PROXY }}" \
