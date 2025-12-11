@@ -54,7 +54,7 @@ jobs:
           docker pull dublok/github.action.cryptomarketdata:beta
           docker run --rm \
             --network host \
-            -e GITHUB_TOKEN="${{ secrets.GITHUB_TOKEN }}" \
+            -e GITHUB_TOKEN="${{ secrets.GH_TOKEN }}" \
             -e GITHUB_REPOSITORY="${{ github.repository }}" \
             -e GITHUB_REF_NAME="${{ github.ref_name }}" \
             -e GITHUB_RUN_ID="${{ github.run_id }}" \
