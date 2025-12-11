@@ -39,6 +39,14 @@ jobs:
           echo "Current run: ${{ github.run_id }}"
           echo "Workflow file: ${{ github.workflow }}"
 
+      - name: Debug Token
+        run: |
+          TOKEN="${{ secrets.GH_TOKEN }}"
+          echo "Token length: ${#TOKEN}"
+          echo "Token starts with: ${TOKEN:0:4}"
+          # Test the token directly
+          curl -s -H "Authorization: token $TOKEN" https://api.github.com/user | jq '.login // "FAILED"'
+
       - name: Log in to Docker Hub
         uses: docker/login-action@v3
         with:
