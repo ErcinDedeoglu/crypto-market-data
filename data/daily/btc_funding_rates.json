@@ -7,10 +7,10 @@
   "trading_signal": "\u003e0.05% → Market overheated (Longs will be liquidated). \u003c-0.05% → Market capitulated (Shorts will be liquidated, reversal coming).",
   "granularity": "daily",
   "first_data_date": 1670025600000,
-  "last_data_date": 1768089600000,
-  "last_added_date": 1768089981057,
-  "last_modified_date": 1768158290174,
-  "updated_at": 1768158290175,
+  "last_data_date": 1768176000000,
+  "last_added_date": 1768176380452,
+  "last_modified_date": 1768176380452,
+  "updated_at": 1768176380453,
   "data": [
     {
       "timestamp": 1670025600000,
@@ -5689,8 +5689,13 @@
     },
     {
       "timestamp": 1768089600000,
-      "value": 0.007585499999999999,
-      "last_modified": 1768158290174
+      "value": 0.008461643333333333,
+      "last_modified": 1768176380452
+    },
+    {
+      "timestamp": 1768176000000,
+      "value": 0.007516666666666667,
+      "last_modified": 1768176380452
     }
   ]
 }
