@@ -1,0 +1,71 @@
+name: Run dublok/github.action.cryptomarketdata
+
+on:
+  schedule:
+    - cron: '5 0 * * *'   # Runs daily at 00:05 UTC
+    - cron: '30 0 * * *'  # Runs daily at 00:30 UTC
+    - cron: '0 1 * * *'   # Runs daily at 01:00 UTC
+    - cron: '0 2 * * *'   # Runs daily at 02:00 UTC
+  workflow_dispatch:
+    inputs:
+      reason:
+        description: 'The reason for running the workflow'
+        required: true
+        default: 'Manual run'
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Log in to Docker Hub
+        uses: docker/login-action@v3
+        with:
+          username: ${{ secrets.DOCKER_USERNAME }}
+          password: ${{ secrets.DOCKER_TOKEN }}
+
+      - name: Create Docker Network
+        run: docker network create --driver bridge warp-network
+
+      - name: Start Cloudflare WARP Proxy
+        run: |
+          docker pull dublok/cloudflare-warp:latest
+          docker run -d \
+            --name warp \
+            --network warp-network \
+            --cap-add MKNOD \
+            --cap-add AUDIT_WRITE \
+            --cap-add NET_ADMIN \
+            --sysctl net.ipv4.conf.all.src_valid_mark=1 \
+            --device-cgroup-rule='c 10:200 rwm' \
+            -e WARP_SLEEP=5 \
+            dublok/cloudflare-warp:latest
+
+      - name: Wait for WARP to be ready
+        run: |
+          echo "Waiting for WARP proxy to be ready..."
+          sleep 10
+          docker exec warp curl --socks5-hostname 127.0.0.1:1080 https://cloudflare.com/cdn-cgi/trace || echo "WARP check completed"
+
+      - name: Pull and Run Docker Container
+        run: |
+          docker pull dublok/github.action.cryptomarketdata:latest
+          docker run --rm \
+            --network warp-network \
+            -e GITHUB_TOKEN="${{ secrets.GH_TOKEN }}" \
+            -e GITHUB_REPO_URL="${{ secrets.GH_REPO_URL }}" \
+            -e GITHUB_BRANCH="${{ secrets.GH_BRANCH }}" \
+            -e HTTP_PROXY="socks5://warp:1080" \
+            -e HTTPS_PROXY="socks5://warp:1080" \
+            -e ALL_PROXY="socks5://warp:1080" \
+            dublok/github.action.cryptomarketdata:latest
+
+      - name: Cleanup
+        if: always()
+        run: |
+          docker stop warp || true
+          docker rm warp || true
+          docker network rm warp-network || true
