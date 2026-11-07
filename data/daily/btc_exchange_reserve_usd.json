@@ -1,0 +1,7196 @@
+{
+  "name": "BTC Exchange Reserve USD",
+  "description": "Total USD value of all BTC held in exchange wallets. High reserve = more supply available = illiquid market. Low reserve = thin market = volatile moves on small volume. Context for market liquidity.",
+  "data_type": "Decimal (USD)",
+  "update_frequency": "Daily",
+  "category": "Supply/Demand (Whales)",
+  "trading_signal": "High → Sellers have ammunition. Low → Market is tight (big moves on small orders).",
+  "granularity": "daily",
+  "first_data_date": 1670025600000,
+  "last_data_date": 1794009600000,
+  "last_added_date": 1794011520487,
+  "last_modified_date": 1794017173487,
+  "updated_at": 1794017173488,
+  "data": [
+    {
+      "timestamp": 1670025600000,
+      "value": 57963582849.18028,
+      "last_modified": 1764749855000
+    },
+    {
+      "timestamp": 1670112000000,
+      "value": 58639337438.62519,
+      "last_modified": 1764749855000
+    },
+    {
+      "timestamp": 1670198400000,
+      "value": 58162620428.00567,
+      "last_modified": 1764749855000
+    },
+    {
+      "timestamp": 1670284800000,
+      "value": 59677848479.85644,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1670371200000,
+      "value": 58830333193.309456,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1670457600000,
+      "value": 60134485799.08091,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1670544000000,
+      "value": 59677523135.97485,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1670630400000,
+      "value": 59563687833.501884,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1670716800000,
+      "value": 59468939759.70542,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1670803200000,
+      "value": 59670727745.14991,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1670889600000,
+      "value": 60906296015.60595,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1670976000000,
+      "value": 60872577874.77455,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1671062400000,
+      "value": 59560636193.81791,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1671148800000,
+      "value": 57180735922.345894,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1671235200000,
+      "value": 57498145331.870514,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1671321600000,
+      "value": 57420414214.75042,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1671408000000,
+      "value": 56430219395.72967,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1671494400000,
+      "value": 57870725399.56227,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1671580800000,
+      "value": 57440839962.75465,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1671667200000,
+      "value": 57528545497.20593,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1671753600000,
+      "value": 57504547191.877304,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1671840000000,
+      "value": 57628488911.702385,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1671926400000,
+      "value": 57654341736.39938,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1672012800000,
+      "value": 57901519244.33141,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1672099200000,
+      "value": 57309089692.654495,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1672185600000,
+      "value": 56899028326.27814,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1672272000000,
+      "value": 57008606375.29919,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1672358400000,
+      "value": 56964407511.79303,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1672444800000,
+      "value": 56810144627.443306,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1672531200000,
+      "value": 57139324049.427765,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1672617600000,
+      "value": 57403506234.539375,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1672704000000,
+      "value": 57364376495.31847,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1672790400000,
+      "value": 58242597753.57427,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1672876800000,
+      "value": 58166508641.2534,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1672963200000,
+      "value": 58457319178.51682,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1673049600000,
+      "value": 53027434513.518036,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1673136000000,
+      "value": 53319152100.08817,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1673222400000,
+      "value": 53720193782.56418,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1673308800000,
+      "value": 54495343484.89373,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1673395200000,
+      "value": 55778170969.60776,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1673481600000,
+      "value": 58783562337.9702,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1673568000000,
+      "value": 61548613824.99487,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1673654400000,
+      "value": 65098494756.74842,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1673740800000,
+      "value": 64806268360.05777,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1673827200000,
+      "value": 65546059480.60197,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1673913600000,
+      "value": 65364070361.3224,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1674000000000,
+      "value": 63900703261.41169,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1674086400000,
+      "value": 65114379014.432915,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1674172800000,
+      "value": 69577706219.36218,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1674259200000,
+      "value": 69931256723.95871,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1674345600000,
+      "value": 69744767908.08456,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1674432000000,
+      "value": 70393112775.23265,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1674518400000,
+      "value": 69353559703.85349,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1674604800000,
+      "value": 70850858727.11246,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1674691200000,
+      "value": 70557580701.5824,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1674777600000,
+      "value": 70624399843.3432,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1674864000000,
+      "value": 70387963322.57327,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1674950400000,
+      "value": 72731951847.39436,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1675036800000,
+      "value": 69820942245.93446,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1675123200000,
+      "value": 70889464411.65062,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1675209600000,
+      "value": 72707290457.08603,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1675296000000,
+      "value": 72028214638.36159,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1675382400000,
+      "value": 71859669638.80524,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1675468800000,
+      "value": 71502217716.90564,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1675555200000,
+      "value": 70422614069.69035,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1675641600000,
+      "value": 69661967708.65303,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1675728000000,
+      "value": 71281672558.52286,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1675814400000,
+      "value": 70320485915.64561,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1675900800000,
+      "value": 66994221200.26329,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1675987200000,
+      "value": 66688667846.01447,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1676073600000,
+      "value": 67302039528.55524,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1676160000000,
+      "value": 67090249333.08528,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1676246400000,
+      "value": 67245792384.52859,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1676332800000,
+      "value": 68597197780.72638,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1676419200000,
+      "value": 74949414943.5181,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1676505600000,
+      "value": 72972468077.33449,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1676592000000,
+      "value": 75847784384.32002,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1676678400000,
+      "value": 76060771611.54018,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1676764800000,
+      "value": 75121372840.78114,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1676851200000,
+      "value": 76550479304.5128,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1676937600000,
+      "value": 75463890512.87215,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1677024000000,
+      "value": 74638147177.12158,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1677110400000,
+      "value": 73736315845.20592,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1677196800000,
+      "value": 71741239944.7503,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1677283200000,
+      "value": 71751142818.02542,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1677369600000,
+      "value": 72870992212.80757,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1677456000000,
+      "value": 72795857510.45569,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1677542400000,
+      "value": 71736518224.52086,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1677628800000,
+      "value": 73324900126.00523,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1677715200000,
+      "value": 72850613144.78943,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1677801600000,
+      "value": 69417618172.54907,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1677888000000,
+      "value": 69381926225.2224,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1677974400000,
+      "value": 69609348101.45145,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1678060800000,
+      "value": 69693209703.71458,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1678147200000,
+      "value": 69119278413.58952,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1678233600000,
+      "value": 67477744675.12842,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1678320000000,
+      "value": 63222681168.03576,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1678406400000,
+      "value": 62414263157.06945,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1678492800000,
+      "value": 62802976109.326515,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1678579200000,
+      "value": 67445597337.84794,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1678665600000,
+      "value": 74816333251.74818,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1678752000000,
+      "value": 76901962833.7369,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1678838400000,
+      "value": 75408489564.28004,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1678924800000,
+      "value": 77905738566.42624,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1679011200000,
+      "value": 85299140270.67976,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1679097600000,
+      "value": 84007139662.79994,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1679184000000,
+      "value": 88105686135.62871,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1679270400000,
+      "value": 86644044113.44261,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1679356800000,
+      "value": 87899355752.47362,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1679443200000,
+      "value": 85208705059.32178,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1679529600000,
+      "value": 88205000801.70825,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1679616000000,
+      "value": 85609829539.62663,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1679702400000,
+      "value": 85697831257.12012,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1679788800000,
+      "value": 87369471460.67006,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1679875200000,
+      "value": 84682767739.54282,
+      "last_modified": 1764981425852
+    },
+    {
+      "timestamp": 1679961600000,
+      "value": 85395317793.17757,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1680048000000,
+      "value": 88766907329.47462,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1680134400000,
+      "value": 87877036038.25215,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1680220800000,
+      "value": 89192454124.6673,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1680307200000,
+      "value": 89193237888.36551,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1680393600000,
+      "value": 88330433531.07315,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1680480000000,
+      "value": 87275331903.83717,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1680566400000,
+      "value": 88388042480.0952,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1680652800000,
+      "value": 88410163744.9143,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1680739200000,
+      "value": 88015802629.09082,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1680825600000,
+      "value": 87640376003.53186,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1680912000000,
+      "value": 87736073783.36371,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1680998400000,
+      "value": 88960230081.00783,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1681084800000,
+      "value": 93118260126.86165,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1681171200000,
+      "value": 94835422205.221,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1681257600000,
+      "value": 94236364628.29073,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1681344000000,
+      "value": 95649225733.08401,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1681430400000,
+      "value": 95900280693.99907,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1681516800000,
+      "value": 95420123094.73549,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1681603200000,
+      "value": 95438110638.22807,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1681689600000,
+      "value": 92769798287.38943,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1681776000000,
+      "value": 95800633451.43788,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1681862400000,
+      "value": 90969576915.07275,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1681948800000,
+      "value": 89269044432.30583,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1682035200000,
+      "value": 86269365660.04291,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1682121600000,
+      "value": 88046513314.52762,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1682208000000,
+      "value": 87320668136.39027,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1682294400000,
+      "value": 87117577550.1766,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1682380800000,
+      "value": 89667397782.10153,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1682467200000,
+      "value": 90123615708.71582,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1682553600000,
+      "value": 93464228290.22794,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1682640000000,
+      "value": 92941600308.71996,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1682726400000,
+      "value": 92622000712.71825,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1682812800000,
+      "value": 92582636058.80475,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1682899200000,
+      "value": 89020077230.84322,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1682985600000,
+      "value": 90856322424.02013,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1683072000000,
+      "value": 92023347667.54085,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1683158400000,
+      "value": 91435272439.1126,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1683244800000,
+      "value": 93447677129.88066,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1683331200000,
+      "value": 91394069792.02998,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1683417600000,
+      "value": 90044054208.56679,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1683504000000,
+      "value": 87549381538.8221,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1683590400000,
+      "value": 87460642516.67607,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1683676800000,
+      "value": 87334619949.4581,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1683763200000,
+      "value": 85794598829.01877,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1683849600000,
+      "value": 85138623202.79329,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1683936000000,
+      "value": 85030699892.87074,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1684022400000,
+      "value": 85538254121.64452,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1684108800000,
+      "value": 85749141692.35246,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1684195200000,
+      "value": 85289483872.06696,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1684281600000,
+      "value": 86482127402.55405,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1684368000000,
+      "value": 84911706424.24872,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1684454400000,
+      "value": 85125670521.72989,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1684540800000,
+      "value": 85850454076.1151,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1684627200000,
+      "value": 84747810236.03464,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1684713600000,
+      "value": 85097823348.45905,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1684800000000,
+      "value": 86329828766.47908,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1684886400000,
+      "value": 83538725816.019,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1684972800000,
+      "value": 83507922575.4761,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1685059200000,
+      "value": 84168277063.89413,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1685145600000,
+      "value": 84682023354.04521,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1685232000000,
+      "value": 88550571614.17169,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1685318400000,
+      "value": 87505353054.98978,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1685404800000,
+      "value": 87549590837.50156,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1685491200000,
+      "value": 86126791651.4126,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1685577600000,
+      "value": 84943229471.91257,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1685664000000,
+      "value": 86179973353.31883,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1685750400000,
+      "value": 85734295418.23868,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1685836800000,
+      "value": 85911948611.18724,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1685923200000,
+      "value": 81345721243.96516,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1686009600000,
+      "value": 85876211158.63638,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1686096000000,
+      "value": 82796779380.99191,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1686182400000,
+      "value": 83156196612.97617,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1686268800000,
+      "value": 83123502048.6869,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1686355200000,
+      "value": 81198939699.80278,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1686441600000,
+      "value": 81265427442.16516,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1686528000000,
+      "value": 81160465378.04782,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1686614400000,
+      "value": 81263288274.41774,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1686700800000,
+      "value": 78872792743.34349,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1686787200000,
+      "value": 80108097804.19507,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1686873600000,
+      "value": 82496786116.17786,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1686960000000,
+      "value": 83018140544.94875,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1687046400000,
+      "value": 82496951001.92221,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1687132800000,
+      "value": 84075152910.8633,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1687219200000,
+      "value": 88500497736.30757,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1687305600000,
+      "value": 93942553096.26584,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1687392000000,
+      "value": 93456137115.3558,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1687478400000,
+      "value": 95805270239.7164,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1687564800000,
+      "value": 95378774766.30669,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1687651200000,
+      "value": 95180756563.57036,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1687737600000,
+      "value": 94670789637.85738,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1687824000000,
+      "value": 96001369795.98381,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1687910400000,
+      "value": 93995591200.18015,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1687996800000,
+      "value": 95138730995.04881,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1688083200000,
+      "value": 95358588133.59364,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1688169600000,
+      "value": 95219759630.0008,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1688256000000,
+      "value": 95384358970.4881,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1688342400000,
+      "value": 97065452784.6587,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1688428800000,
+      "value": 95875100383.93687,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1688515200000,
+      "value": 95150850966.5035,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1688601600000,
+      "value": 93329312688.95628,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1688688000000,
+      "value": 94640747962.34389,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1688774400000,
+      "value": 94545539522.05548,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1688860800000,
+      "value": 94238265661.02171,
+      "last_modified": 1774736965572
+    },
+    {
+      "timestamp": 1688947200000,
+      "value": 94971478878.05505,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1689033600000,
+      "value": 95583856169.35434,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1689120000000,
+      "value": 95055218864.07726,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1689206400000,
+      "value": 98236092133.72067,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1689292800000,
+      "value": 94557187031.58282,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1689379200000,
+      "value": 94441490503.98701,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1689465600000,
+      "value": 94291218020.3592,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1689552000000,
+      "value": 94077111813.23816,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1689638400000,
+      "value": 93094403818.98982,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1689724800000,
+      "value": 93149070121.68657,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1689811200000,
+      "value": 92797773842.68715,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1689897600000,
+      "value": 93144836792.67053,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1689984000000,
+      "value": 92780178540.82372,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1690070400000,
+      "value": 93698185553.75002,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1690156800000,
+      "value": 90860571841.15843,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1690243200000,
+      "value": 91027478163.69412,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1690329600000,
+      "value": 91410160941.3476,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1690416000000,
+      "value": 91236942002.40846,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1690502400000,
+      "value": 91540100478.30598,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1690588800000,
+      "value": 91706210067.2507,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1690675200000,
+      "value": 91516071769.96194,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1690761600000,
+      "value": 91326540863.4478,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1690848000000,
+      "value": 92826906927.3065,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1690934400000,
+      "value": 91053590343.14798,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1691020800000,
+      "value": 91014952482.1775,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1691107200000,
+      "value": 90688213988.63564,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1691193600000,
+      "value": 90672564419.98293,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1691280000000,
+      "value": 90721800536.71458,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1691366400000,
+      "value": 91283240571.4379,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1691452800000,
+      "value": 92756858139.094,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1691539200000,
+      "value": 92234764071.50749,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1691625600000,
+      "value": 91712372313.30023,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1691712000000,
+      "value": 91721260116.81111,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1691798400000,
+      "value": 91787841260.19696,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1691884800000,
+      "value": 91448216722.00952,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1691971200000,
+      "value": 91603862490.72119,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1692057600000,
+      "value": 90803334872.81406,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1692144000000,
+      "value": 89474723147.87823,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1692230400000,
+      "value": 83035401821.58403,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1692316800000,
+      "value": 81171403456.05971,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1692403200000,
+      "value": 81271221799.61485,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1692489600000,
+      "value": 81540608336.0876,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1692576000000,
+      "value": 81255992131.87029,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1692662400000,
+      "value": 80917693765.2383,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1692748800000,
+      "value": 81982081337.76147,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1692835200000,
+      "value": 81179208460.79851,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1692921600000,
+      "value": 80707617596.50919,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1693008000000,
+      "value": 80585824798.25494,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1693094400000,
+      "value": 80883884397.2499,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1693180800000,
+      "value": 80954462540.29558,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1693267200000,
+      "value": 85927768281.90097,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1693353600000,
+      "value": 84665427598.79755,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1693440000000,
+      "value": 80501433680.7375,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1693526400000,
+      "value": 80500681689.36162,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1693612800000,
+      "value": 80655411061.42688,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1693699200000,
+      "value": 80986139912.95602,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1693785600000,
+      "value": 80519457898.35675,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1693872000000,
+      "value": 80387265497.41641,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1693958400000,
+      "value": 80406183672.11487,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1694044800000,
+      "value": 81996402719.66454,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1694131200000,
+      "value": 80764276686.48651,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1694217600000,
+      "value": 80808963431.94217,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1694304000000,
+      "value": 80620405161.83376,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1694390400000,
+      "value": 78399303409.29019,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1694476800000,
+      "value": 80427425142.32141,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1694563200000,
+      "value": 81543462839.1616,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1694649600000,
+      "value": 82527237834.18419,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1694736000000,
+      "value": 82652490242.16689,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1694822400000,
+      "value": 82362778113.37184,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1694908800000,
+      "value": 82284272179.7078,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1694995200000,
+      "value": 83002994821.20158,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1695081600000,
+      "value": 84347851611.30376,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1695168000000,
+      "value": 83930264012.40565,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1695254400000,
+      "value": 82215409896.97827,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1695340800000,
+      "value": 82352817961.83224,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1695427200000,
+      "value": 82350864733.03983,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1695513600000,
+      "value": 81388823041.17638,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1695600000000,
+      "value": 81538246343.45555,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1695686400000,
+      "value": 81373820165.49142,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1695772800000,
+      "value": 81870960715.42212,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1695859200000,
+      "value": 83832751422.42776,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1695945600000,
+      "value": 83371546421.12375,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1696032000000,
+      "value": 83661040758.83475,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1696118400000,
+      "value": 86953382006.50023,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1696204800000,
+      "value": 85579328580.68117,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1696291200000,
+      "value": 85383278961.50693,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1696377600000,
+      "value": 86608453756.35982,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1696464000000,
+      "value": 85351525047.10736,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1696550400000,
+      "value": 86847532307.64742,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1696636800000,
+      "value": 86933691498.51932,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1696723200000,
+      "value": 86807952274.09859,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1696809600000,
+      "value": 85955427355.43347,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1696896000000,
+      "value": 85254524624.88135,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1696982400000,
+      "value": 83731064494.05644,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1697068800000,
+      "value": 83533959554.558,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1697155200000,
+      "value": 83950840611.95352,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1697241600000,
+      "value": 84148070781.83582,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1697328000000,
+      "value": 85105104242.42622,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1697414400000,
+      "value": 89090824579.33429,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1697500800000,
+      "value": 88581791920.00252,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1697587200000,
+      "value": 88354811723.39308,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1697673600000,
+      "value": 89339793113.10645,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1697760000000,
+      "value": 92306173914.86192,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1697846400000,
+      "value": 93103942431.26974,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1697932800000,
+      "value": 93383194580.15965,
+      "last_modified": 1783644982885
+    },
+    {
+      "timestamp": 1698019200000,
+      "value": 103198458488.81578,
+      "last_modified": 1792716744027
+    },
+    {
+      "timestamp": 1698105600000,
+      "value": 105951940121.5955,
+      "last_modified": 1792716744027
+    },
+    {
+      "timestamp": 1698192000000,
+      "value": 107886424958.43639,
+      "last_modified": 1792716744027
+    },
+    {
+      "timestamp": 1698278400000,
+      "value": 106900444435.91017,
+      "last_modified": 1792716744027
+    },
+    {
+      "timestamp": 1698364800000,
+      "value": 106090230371.9418,
+      "last_modified": 1792716744027
+    },
+    {
+      "timestamp": 1698451200000,
+      "value": 106646302597.26527,
+      "last_modified": 1792716744027
+    },
+    {
+      "timestamp": 1698537600000,
+      "value": 108106504685.26166,
+      "last_modified": 1792716744027
+    },
+    {
+      "timestamp": 1698624000000,
+      "value": 107986480066.05165,
+      "last_modified": 1792716744027
+    },
+    {
+      "timestamp": 1698710400000,
+      "value": 108513181779.66597,
+      "last_modified": 1792716744027
+    },
+    {
+      "timestamp": 1698796800000,
+      "value": 110954510498.07951,
+      "last_modified": 1792716744027
+    },
+    {
+      "timestamp": 1698883200000,
+      "value": 109824259747.96999,
+      "last_modified": 1792716744027
+    },
+    {
+      "timestamp": 1698969600000,
+      "value": 108839594828.68904,
+      "last_modified": 1792716744027
+    },
+    {
+      "timestamp": 1699056000000,
+      "value": 110005191485.28198,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1699142400000,
+      "value": 109927356715.58815,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1699228800000,
+      "value": 110145711769.65746,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1699315200000,
+      "value": 111369805330.5608,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1699401600000,
+      "value": 111855440771.56499,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1699488000000,
+      "value": 115170415899.57848,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1699574400000,
+      "value": 118236709584.08328,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1699660800000,
+      "value": 117764541182.36597,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1699747200000,
+      "value": 117588227863.0746,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1699833600000,
+      "value": 115719869015.1041,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1699920000000,
+      "value": 113095739646.8347,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1700006400000,
+      "value": 120521950623.6659,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1700092800000,
+      "value": 115157132962.19661,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1700179200000,
+      "value": 116484068602.57271,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1700265600000,
+      "value": 116415708438.57323,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1700352000000,
+      "value": 118980538585.1653,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1700438400000,
+      "value": 119168910426.10753,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1700524800000,
+      "value": 113697690787.54927,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1700611200000,
+      "value": 118500679388.54437,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1700697600000,
+      "value": 118198820734.05319,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1700784000000,
+      "value": 119347871774.51686,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1700870400000,
+      "value": 119347416343.30893,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1700956800000,
+      "value": 118303429132.10901,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1701043200000,
+      "value": 117473949508.05278,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1701129600000,
+      "value": 118996200366.67525,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1701216000000,
+      "value": 118972866849.47102,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1701302400000,
+      "value": 118641778310.21959,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1701388800000,
+      "value": 121705346845.57071,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1701475200000,
+      "value": 123994708473.77649,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1701561600000,
+      "value": 125664953804.53812,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1701648000000,
+      "value": 132230280362.3011,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1701734400000,
+      "value": 138388935806.84763,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1701820800000,
+      "value": 138029504911.40182,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1701907200000,
+      "value": 136935754426.42792,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1701993600000,
+      "value": 140020773088.94196,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1702080000000,
+      "value": 138794649460.49167,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1702166400000,
+      "value": 139134750161.41232,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1702252800000,
+      "value": 131457631435.31583,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1702339200000,
+      "value": 132131547156.67305,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1702425600000,
+      "value": 136679910426.95236,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1702512000000,
+      "value": 137162586161.79921,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1702598400000,
+      "value": 133793452432.96284,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1702684800000,
+      "value": 134536382080.71646,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1702771200000,
+      "value": 131909431500.11267,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1702857600000,
+      "value": 136175770361.1287,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1702944000000,
+      "value": 134834034578.91931,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1703030400000,
+      "value": 139194130281.02573,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1703116800000,
+      "value": 139633320491.51108,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1703203200000,
+      "value": 140109182439.63388,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1703289600000,
+      "value": 139125830516.51376,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1703376000000,
+      "value": 136324055484.58157,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1703462400000,
+      "value": 138666488593.4534,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1703548800000,
+      "value": 135152401692.84033,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1703635200000,
+      "value": 138296627253.28156,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1703721600000,
+      "value": 135355447615.22632,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1703808000000,
+      "value": 133426385758.4039,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1703894400000,
+      "value": 134067492532.32892,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1703980800000,
+      "value": 134622711743.90842,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1704067200000,
+      "value": 140617415720.92703,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1704153600000,
+      "value": 143007431971.11847,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1704240000000,
+      "value": 136530725964.72531,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1704326400000,
+      "value": 140809152027.6553,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1704412800000,
+      "value": 140768407751.5695,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1704499200000,
+      "value": 140329541949.38858,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1704585600000,
+      "value": 139943205109.7836,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1704672000000,
+      "value": 150164650809.0723,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1704758400000,
+      "value": 147634544273.23877,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1704844800000,
+      "value": 149919271884.87393,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1704931200000,
+      "value": 149274503864.00418,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1705017600000,
+      "value": 137997077947.57098,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1705104000000,
+      "value": 138103657006.3098,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1705190400000,
+      "value": 134483754643.75119,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1705276800000,
+      "value": 137205436808.06128,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1705363200000,
+      "value": 138816226225.0392,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1705449600000,
+      "value": 137547575820.79672,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1705536000000,
+      "value": 132778626329.65865,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1705622400000,
+      "value": 133997430288.01054,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1705708800000,
+      "value": 134197615077.98892,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1705795200000,
+      "value": 133780959876.67566,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1705881600000,
+      "value": 127381823139.2664,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1705968000000,
+      "value": 128537373232.01534,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1706054400000,
+      "value": 129362305570.60254,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1706140800000,
+      "value": 129238512228.03378,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1706227200000,
+      "value": 135115591170.35558,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1706313600000,
+      "value": 136054516292.85,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1706400000000,
+      "value": 135753899653.30138,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1706486400000,
+      "value": 139932998320.8337,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1706572800000,
+      "value": 138379338046.12064,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1706659200000,
+      "value": 137848409882.71136,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1706745600000,
+      "value": 139294536082.43192,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1706832000000,
+      "value": 139376011902.1851,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1706918400000,
+      "value": 138766956115.90222,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1707004800000,
+      "value": 137482913626.15698,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1707091200000,
+      "value": 137835039257.75854,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1707177600000,
+      "value": 139081791098.1129,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1707264000000,
+      "value": 142908456405.2114,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1707350400000,
+      "value": 145911054516.80832,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1707436800000,
+      "value": 151932764874.869,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1707523200000,
+      "value": 153844104576.25922,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1707609600000,
+      "value": 155832516102.79828,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1707696000000,
+      "value": 161354578345.17923,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1707782400000,
+      "value": 160399418258.30023,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1707868800000,
+      "value": 166664126531.2506,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1707955200000,
+      "value": 166919593307.85638,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1708041600000,
+      "value": 167455288267.68747,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1708128000000,
+      "value": 166027227437.27567,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1708214400000,
+      "value": 167759929821.2594,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1708300800000,
+      "value": 166037794940.57767,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1708387200000,
+      "value": 167567946863.45752,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1708473600000,
+      "value": 166356112368.72968,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1708560000000,
+      "value": 164806463822.47137,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1708646400000,
+      "value": 162819904063.83762,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1708732800000,
+      "value": 165467302598.05365,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1708819200000,
+      "value": 166043343807.5802,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1708905600000,
+      "value": 174737315148.63654,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1708992000000,
+      "value": 182728459449.81543,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1709078400000,
+      "value": 200656734646.2288,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1709164800000,
+      "value": 196820287995.4288,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1709251200000,
+      "value": 200149162800.09528,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1709337600000,
+      "value": 199003627255.8045,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1709424000000,
+      "value": 202681445417.66818,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1709510400000,
+      "value": 219397065567.33066,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1709596800000,
+      "value": 205937256215.43817,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1709683200000,
+      "value": 212870083730.79245,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1709769600000,
+      "value": 215541029618.01477,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1709856000000,
+      "value": 219527287110.49158,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1709942400000,
+      "value": 220186930642.5309,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1710028800000,
+      "value": 222396780775.40277,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1710115200000,
+      "value": 233305536598.21344,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1710201600000,
+      "value": 231713857916.7541,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1710288000000,
+      "value": 236984667641.07794,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1710374400000,
+      "value": 230422273805.60266,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1710460800000,
+      "value": 223773778151.30383,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1710547200000,
+      "value": 210539759513.4025,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1710633600000,
+      "value": 220368614472.09927,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1710720000000,
+      "value": 217850621025.26733,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1710806400000,
+      "value": 200195445640.48358,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1710892800000,
+      "value": 218824110646.04938,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1710979200000,
+      "value": 211368509910.69882,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1711065600000,
+      "value": 205614200551.57523,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1711152000000,
+      "value": 205871095497.81677,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1711238400000,
+      "value": 215934056849.26697,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1711324800000,
+      "value": 224267552020.62778,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1711411200000,
+      "value": 224492454779.70654,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1711497600000,
+      "value": 223111186240.18192,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1711584000000,
+      "value": 226829035995.79913,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1711670400000,
+      "value": 223638995456.36136,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1711756800000,
+      "value": 222899969862.24194,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1711843200000,
+      "value": 228337918863.82764,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1711929600000,
+      "value": 222661154878.4208,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1712016000000,
+      "value": 209296201216.87463,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1712102400000,
+      "value": 210997428598.68488,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1712188800000,
+      "value": 218472944584.69922,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1712275200000,
+      "value": 216579792504.80353,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1712361600000,
+      "value": 219964998270.12827,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1712448000000,
+      "value": 221516081653.46506,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1712534400000,
+      "value": 229026196781.86536,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1712620800000,
+      "value": 221546505640.91412,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1712707200000,
+      "value": 225889994589.74753,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1712793600000,
+      "value": 223800366004.08722,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1712880000000,
+      "value": 214489281344.12323,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1712966400000,
+      "value": 204387234454.19324,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1713052800000,
+      "value": 210112170797.94458,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1713139200000,
+      "value": 202630032160.89368,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1713225600000,
+      "value": 204070522543.9279,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1713312000000,
+      "value": 196257562052.40042,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1713398400000,
+      "value": 202723910598.76666,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1713484800000,
+      "value": 203793872584.41235,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1713571200000,
+      "value": 207327015062.0731,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1713657600000,
+      "value": 207401739300.58582,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1713744000000,
+      "value": 213286850048.067,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1713830400000,
+      "value": 211937043675.01065,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1713916800000,
+      "value": 205842439788.84827,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1714003200000,
+      "value": 206805146807.75803,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1714089600000,
+      "value": 204038582713.73663,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1714176000000,
+      "value": 203042883283.69586,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1714262400000,
+      "value": 202227770930.07162,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1714348800000,
+      "value": 204900845261.08292,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1714435200000,
+      "value": 195118505640.85492,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1714521600000,
+      "value": 187895939973.236,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1714608000000,
+      "value": 190387537331.59494,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1714694400000,
+      "value": 202918488813.2007,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1714780800000,
+      "value": 205898150587.62073,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1714867200000,
+      "value": 206433399994.36,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1714953600000,
+      "value": 203502331345.26294,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1715040000000,
+      "value": 200664225091.15405,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1715126400000,
+      "value": 197083425143.8365,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1715212800000,
+      "value": 202970060965.7724,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1715299200000,
+      "value": 195780149759.52066,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1715385600000,
+      "value": 195858773391.57776,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1715472000000,
+      "value": 197946503687.33667,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1715558400000,
+      "value": 202928825689.57407,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1715644800000,
+      "value": 198367614294.2251,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1715731200000,
+      "value": 213277498666.86755,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1715817600000,
+      "value": 210165800367.27786,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1715904000000,
+      "value": 215274284615.21164,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1715990400000,
+      "value": 214882098215.0121,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1716076800000,
+      "value": 212783644699.47726,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1716163200000,
+      "value": 229089343687.9168,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1716249600000,
+      "value": 225721953270.07025,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1716336000000,
+      "value": 222664084096.77933,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1716422400000,
+      "value": 218975020036.86664,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1716508800000,
+      "value": 220756992299.74078,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1716595200000,
+      "value": 223144504978.17813,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1716681600000,
+      "value": 220653417921.04648,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1716768000000,
+      "value": 223606536063.05502,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1716854400000,
+      "value": 216665345405.08337,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1716940800000,
+      "value": 214590073792.32333,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1717027200000,
+      "value": 216561089229.6169,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1717113600000,
+      "value": 213916262033.04343,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1717200000000,
+      "value": 214864647964.56845,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1717286400000,
+      "value": 214809000029.29443,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1717372800000,
+      "value": 217905874477.63663,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1717459200000,
+      "value": 223114815927.62973,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1717545600000,
+      "value": 224679842765.04092,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1717632000000,
+      "value": 223555717695.48557,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1717718400000,
+      "value": 218560581269.48514,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1717804800000,
+      "value": 219011057632.74335,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1717891200000,
+      "value": 220044154745.7652,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1717977600000,
+      "value": 219630281549.16815,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1718064000000,
+      "value": 212495108893.87106,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1718150400000,
+      "value": 215134484119.7964,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1718236800000,
+      "value": 209789521340.1375,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1718323200000,
+      "value": 207585954282.0544,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1718409600000,
+      "value": 208283281281.68707,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1718496000000,
+      "value": 209671034128.67072,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1718582400000,
+      "value": 209356871139.4659,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1718668800000,
+      "value": 205088609683.47052,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1718755200000,
+      "value": 204084883153.0697,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1718841600000,
+      "value": 203791520127.40814,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1718928000000,
+      "value": 201609979648.00415,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1719014400000,
+      "value": 201926597357.09055,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1719100800000,
+      "value": 198688393681.5061,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1719187200000,
+      "value": 189658461987.1155,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1719273600000,
+      "value": 194136717993.96387,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1719360000000,
+      "value": 191451056531.34738,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1719446400000,
+      "value": 194830255637.60495,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1719532800000,
+      "value": 190716489544.35352,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1719619200000,
+      "value": 192622835242.4424,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1719705600000,
+      "value": 198308334100.59488,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1719792000000,
+      "value": 198788622431.91147,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1719878400000,
+      "value": 196253894378.27756,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1719964800000,
+      "value": 190320001700.0618,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1720051200000,
+      "value": 180923718900.28864,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1720137600000,
+      "value": 176961403766.09515,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1720224000000,
+      "value": 182078857362.58612,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1720310400000,
+      "value": 174765746834.49686,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1720396800000,
+      "value": 177895529439.29883,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1720483200000,
+      "value": 182013818219.62082,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1720569600000,
+      "value": 180917384349.85724,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1720656000000,
+      "value": 180096911446.62222,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1720742400000,
+      "value": 181887483492.69788,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1720828800000,
+      "value": 186154200922.6927,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1720915200000,
+      "value": 191160113591.43604,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1721001600000,
+      "value": 203409174150.75763,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1721088000000,
+      "value": 207227888706.88467,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1721174400000,
+      "value": 204182135298.55325,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1721260800000,
+      "value": 203802326267.02386,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1721347200000,
+      "value": 212179423204.7786,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1721433600000,
+      "value": 213842334020.23196,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1721520000000,
+      "value": 217107801347.48764,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1721606400000,
+      "value": 214954319205.50916,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1721692800000,
+      "value": 209238332160.41812,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1721779200000,
+      "value": 207011120371.15588,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1721865600000,
+      "value": 208736526813.59048,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1721952000000,
+      "value": 215240724216.2085,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1722038400000,
+      "value": 215409308120.84546,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1722124800000,
+      "value": 216623213858.04465,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1722211200000,
+      "value": 211519939428.02054,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1722297600000,
+      "value": 211404790091.09283,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1722384000000,
+      "value": 204640523173.55856,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1722470400000,
+      "value": 206692294906.63458,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1722556800000,
+      "value": 194544978692.68732,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1722643200000,
+      "value": 192112373815.83844,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1722729600000,
+      "value": 184048585626.42493,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1722816000000,
+      "value": 171436601658.53522,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1722902400000,
+      "value": 177990950356.3822,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1722988800000,
+      "value": 175074283953.84607,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1723075200000,
+      "value": 195875047814.7962,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1723161600000,
+      "value": 193377884573.29883,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1723248000000,
+      "value": 193621339935.97363,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1723334400000,
+      "value": 186617195023.95343,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1723420800000,
+      "value": 188631203930.2933,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1723507200000,
+      "value": 192602533850.70197,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1723593600000,
+      "value": 186572047667.2714,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1723680000000,
+      "value": 182705644166.60168,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1723766400000,
+      "value": 186480595667.79456,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1723852800000,
+      "value": 188294802254.6104,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1723939200000,
+      "value": 185429176493.96103,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1724025600000,
+      "value": 188287729138.2968,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1724112000000,
+      "value": 186989256203.6736,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1724198400000,
+      "value": 193685529161.6643,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1724284800000,
+      "value": 191268918051.73227,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1724371200000,
+      "value": 202367908425.03433,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1724457600000,
+      "value": 203001334386.8521,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1724544000000,
+      "value": 203485575411.95175,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1724630400000,
+      "value": 198712185724.9961,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1724716800000,
+      "value": 188195843831.196,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1724803200000,
+      "value": 186905858635.28427,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1724889600000,
+      "value": 187370015163.35895,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1724976000000,
+      "value": 186625359200.70557,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1725062400000,
+      "value": 186334686413.41742,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1725148800000,
+      "value": 181061852142.9166,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1725235200000,
+      "value": 186892106574.6555,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1725321600000,
+      "value": 181380829495.8478,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1725408000000,
+      "value": 183034634767.8873,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1725494400000,
+      "value": 177798032698.2909,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1725580800000,
+      "value": 170690087287.41956,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1725667200000,
+      "value": 171253729250.90323,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1725753600000,
+      "value": 173487846288.09268,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1725840000000,
+      "value": 180099196311.65866,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1725926400000,
+      "value": 181147886562.6131,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1726012800000,
+      "value": 179823037286.92966,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1726099200000,
+      "value": 182489523853.01425,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1726185600000,
+      "value": 189881036993.01837,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1726272000000,
+      "value": 188132070038.04462,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1726358400000,
+      "value": 185449609988.6886,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1726444800000,
+      "value": 182754229916.55087,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1726531200000,
+      "value": 189407226878.3049,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1726617600000,
+      "value": 193763368046.05936,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1726704000000,
+      "value": 197296974125.87296,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1726790400000,
+      "value": 198133811470.77753,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1726876800000,
+      "value": 198809968838.16858,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1726963200000,
+      "value": 199633799111.02576,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1727049600000,
+      "value": 199154460547.20023,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1727136000000,
+      "value": 201730755300.41046,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1727222400000,
+      "value": 198117351186.47626,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1727308800000,
+      "value": 204354262533.0664,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1727395200000,
+      "value": 205688211432.1394,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1727481600000,
+      "value": 205960520411.58807,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1727568000000,
+      "value": 205270979473.1941,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1727654400000,
+      "value": 198151780791.5531,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1727740800000,
+      "value": 190870224084.8319,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1727827200000,
+      "value": 190511161006.9988,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1727913600000,
+      "value": 190935785233.23898,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1728000000000,
+      "value": 195172988345.39923,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1728086400000,
+      "value": 195007221917.25568,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1728172800000,
+      "value": 197295689023.67593,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1728259200000,
+      "value": 195318836340.66074,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1728345600000,
+      "value": 194836075012.13373,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1728432000000,
+      "value": 190302129219.28476,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1728518400000,
+      "value": 189334964237.27228,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1728604800000,
+      "value": 196173212085.474,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1728691200000,
+      "value": 198214571632.71243,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1728777600000,
+      "value": 197163401899.05756,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1728864000000,
+      "value": 207458589708.74203,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1728950400000,
+      "value": 210357167013.23135,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1729036800000,
+      "value": 212359249228.9923,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1729123200000,
+      "value": 211442202385.20865,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1729209600000,
+      "value": 214410697971.98264,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1729296000000,
+      "value": 214228009456.6448,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1729382400000,
+      "value": 216334861425.7677,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1729468800000,
+      "value": 211322544581.56363,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1729555200000,
+      "value": 211390235728.92053,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1729641600000,
+      "value": 209128418229.03003,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1729728000000,
+      "value": 213759093477.71216,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1729814400000,
+      "value": 209293983820.20944,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1729900800000,
+      "value": 210656453271.5476,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1729987200000,
+      "value": 213664164585.85303,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1730073600000,
+      "value": 219450380682.35822,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1730160000000,
+      "value": 228319048439.04062,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1730246400000,
+      "value": 226747331811.1502,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1730332800000,
+      "value": 220582194249.5465,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1730419200000,
+      "value": 218327582288.55524,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1730505600000,
+      "value": 217939059875.05597,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1730592000000,
+      "value": 216137756463.0646,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1730678400000,
+      "value": 213878609429.19028,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1730764800000,
+      "value": 219441963038.69107,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1730851200000,
+      "value": 238019285441.0633,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1730937600000,
+      "value": 238495723509.66458,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1731024000000,
+      "value": 238885253270.55106,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1731110400000,
+      "value": 239367310167.19696,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1731196800000,
+      "value": 251126789792.53833,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1731283200000,
+      "value": 277367588138.6624,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1731369600000,
+      "value": 275589699659.83307,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1731456000000,
+      "value": 283262851084.5877,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1731542400000,
+      "value": 272984277584.85364,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1731628800000,
+      "value": 284328058919.86163,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1731715200000,
+      "value": 283032269424.31665,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1731801600000,
+      "value": 281708570617.09326,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1731888000000,
+      "value": 284050841904.9709,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1731974400000,
+      "value": 289118143695.35767,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1732060800000,
+      "value": 293665663884.1906,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1732147200000,
+      "value": 306380184467.2337,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1732233600000,
+      "value": 308726532407.2223,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1732320000000,
+      "value": 304816992805.81775,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1732406400000,
+      "value": 305650987083.3721,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1732492800000,
+      "value": 290816277169.9332,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1732579200000,
+      "value": 286735628979.0348,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1732665600000,
+      "value": 298017344854.8853,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1732752000000,
+      "value": 296024319045.33704,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1732838400000,
+      "value": 301419382410.3534,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1732924800000,
+      "value": 298373040315.50116,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1733011200000,
+      "value": 300438127724.4586,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1733097600000,
+      "value": 295564097302.8916,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1733184000000,
+      "value": 295382366187.6585,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1733270400000,
+      "value": 303074459572.59033,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1733356800000,
+      "value": 295284308877.4545,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1733443200000,
+      "value": 304392878185.5011,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1733529600000,
+      "value": 305009205457.0287,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1733616000000,
+      "value": 308790710680.30554,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1733702400000,
+      "value": 295894296925.32574,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1733788800000,
+      "value": 293757061455.15857,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1733875200000,
+      "value": 307432791518.56665,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1733961600000,
+      "value": 303576647100.5932,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1734048000000,
+      "value": 306407153257.2357,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1734134400000,
+      "value": 306470594871.0821,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1734220800000,
+      "value": 315838795795.1529,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1734307200000,
+      "value": 320287910954.47687,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1734393600000,
+      "value": 319986397066.0458,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1734480000000,
+      "value": 301708705255.9128,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1734566400000,
+      "value": 293886025045.8339,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1734652800000,
+      "value": 295400227354.1597,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1734739200000,
+      "value": 293761190985.797,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1734825600000,
+      "value": 287567536883.002,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1734912000000,
+      "value": 287152098393.6025,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1734998400000,
+      "value": 298780625017.58344,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1735084800000,
+      "value": 301174272576.7331,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1735171200000,
+      "value": 289031037044.93243,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1735257600000,
+      "value": 283970031046.77386,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1735344000000,
+      "value": 286778171827.9471,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1735430400000,
+      "value": 281536339801.95605,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1735516800000,
+      "value": 278987103006.1575,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1735603200000,
+      "value": 280994441786.07007,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1735689600000,
+      "value": 284277708262.356,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1735776000000,
+      "value": 291703575140.3292,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1735862400000,
+      "value": 295623440612.8585,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1735948800000,
+      "value": 295668376444.3427,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1736035200000,
+      "value": 296139774734.6463,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1736121600000,
+      "value": 307206819921.7339,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1736208000000,
+      "value": 290591502695.5936,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1736294400000,
+      "value": 285402020828.76227,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1736380800000,
+      "value": 278192952437.74506,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1736467200000,
+      "value": 284803180061.80585,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1736553600000,
+      "value": 284447647818.1385,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1736640000000,
+      "value": 284519709340.23737,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1736726400000,
+      "value": 284711289586.11383,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1736812800000,
+      "value": 291226184124.2251,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1736899200000,
+      "value": 303479207295.9119,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1736985600000,
+      "value": 301662474030.24976,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1737072000000,
+      "value": 312478745164.468,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1737158400000,
+      "value": 313931995370.94696,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1737244800000,
+      "value": 304707312913.0243,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1737331200000,
+      "value": 308369076066.43317,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1737417600000,
+      "value": 319722464716.88916,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1737504000000,
+      "value": 312216233482.9709,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1737590400000,
+      "value": 312494926915.64044,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1737676800000,
+      "value": 315222852166.3625,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1737763200000,
+      "value": 314921796156.0206,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1737849600000,
+      "value": 308588940698.2802,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1737936000000,
+      "value": 306612965830.13654,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1738022400000,
+      "value": 304503328718.6747,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1738108800000,
+      "value": 311816302269.35406,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1738195200000,
+      "value": 314890809086.49756,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1738281600000,
+      "value": 307476289612.7352,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1738368000000,
+      "value": 301917329044.5255,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1738454400000,
+      "value": 293570612576.30786,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1738540800000,
+      "value": 305934572849.6945,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1738627200000,
+      "value": 294970954424.2556,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1738713600000,
+      "value": 291113555461.0546,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1738800000000,
+      "value": 290412375045.93207,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1738886400000,
+      "value": 290852137757.60583,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1738972800000,
+      "value": 290760667557.7792,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1739059200000,
+      "value": 291225428662.115,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1739145600000,
+      "value": 293853980538.61566,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1739232000000,
+      "value": 289366950080.82605,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1739318400000,
+      "value": 295797912185.06616,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1739404800000,
+      "value": 292281537182.2163,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1739491200000,
+      "value": 295177222488.36633,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1739577600000,
+      "value": 295318122645.32324,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1739664000000,
+      "value": 290875306434.57306,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1739750400000,
+      "value": 289922679717.79913,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1739836800000,
+      "value": 289892041029.28156,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1739923200000,
+      "value": 293007152086.2505,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1740009600000,
+      "value": 297607680916.0567,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1740096000000,
+      "value": 290913584918.5492,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1740182400000,
+      "value": 291306726591.0151,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1740268800000,
+      "value": 290142069521.49835,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1740355200000,
+      "value": 275999337011.60614,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1740441600000,
+      "value": 268682349763.5935,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1740528000000,
+      "value": 256137370058.34073,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1740614400000,
+      "value": 257486000803.6026,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1740700800000,
+      "value": 257272481353.0922,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1740787200000,
+      "value": 262372029164.89926,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1740873600000,
+      "value": 286967808732.82135,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1740960000000,
+      "value": 262263470314.165,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1741046400000,
+      "value": 265622973228.84753,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1741132800000,
+      "value": 275959429476.4548,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1741219200000,
+      "value": 273873207447.95038,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1741305600000,
+      "value": 264691572502.74417,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1741392000000,
+      "value": 262883250275.7409,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1741478400000,
+      "value": 246282833673.33942,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1741564800000,
+      "value": 240050298512.74216,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1741651200000,
+      "value": 253478543728.65054,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1741737600000,
+      "value": 255898005504.5633,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1741824000000,
+      "value": 248045840925.32535,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1741910400000,
+      "value": 256947098870.3685,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1741996800000,
+      "value": 257928969009.40213,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1742083200000,
+      "value": 252542639189.98657,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1742169600000,
+      "value": 256862818115.40176,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1742256000000,
+      "value": 252986787645.46884,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1742342400000,
+      "value": 265015520732.46265,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1742428800000,
+      "value": 257383478923.34763,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1742515200000,
+      "value": 256675151599.0168,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1742601600000,
+      "value": 255918507062.09842,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1742688000000,
+      "value": 262748450649.7013,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1742774400000,
+      "value": 266582538960.32727,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1742860800000,
+      "value": 265523484786.74194,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1742947200000,
+      "value": 264407363534.486,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1743033600000,
+      "value": 265041031068.77582,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1743120000000,
+      "value": 256349740630.89023,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1743206400000,
+      "value": 251033220378.9753,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1743292800000,
+      "value": 250575217526.6643,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1743379200000,
+      "value": 251087463068.22412,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1743465600000,
+      "value": 258864203873.09027,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1743552000000,
+      "value": 250565388555.4499,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1743638400000,
+      "value": 252400448526.6268,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1743724800000,
+      "value": 254606862705.88226,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1743811200000,
+      "value": 253659523756.54004,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1743897600000,
+      "value": 238141514246.30124,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1743984000000,
+      "value": 240922150769.31454,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1744070400000,
+      "value": 232428873090.37457,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1744156800000,
+      "value": 251480884461.88373,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1744243200000,
+      "value": 242355153985.2632,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1744329600000,
+      "value": 254068203201.20496,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1744416000000,
+      "value": 259695794511.6753,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1744502400000,
+      "value": 255166991709.55188,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1744588800000,
+      "value": 257495374954.92715,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1744675200000,
+      "value": 254288204048.13956,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1744761600000,
+      "value": 255112687949.539,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1744848000000,
+      "value": 257904583724.18817,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1744934400000,
+      "value": 256325368458.48703,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1745020800000,
+      "value": 258257285887.1002,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1745107200000,
+      "value": 258639746070.90622,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1745193600000,
+      "value": 265461815326.59097,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1745280000000,
+      "value": 283280536201.2864,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1745366400000,
+      "value": 283919459806.8969,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1745452800000,
+      "value": 284106396123.97614,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1745539200000,
+      "value": 285541732436.09326,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1745625600000,
+      "value": 285670257042.73193,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1745712000000,
+      "value": 283053985540.2859,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1745798400000,
+      "value": 286824563790.27985,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1745884800000,
+      "value": 284392365112.47406,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1745971200000,
+      "value": 283961805859.83,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1746057600000,
+      "value": 291264390739.3189,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1746144000000,
+      "value": 291882602966.51447,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1746230400000,
+      "value": 288864086126.3427,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1746316800000,
+      "value": 284144017570.6395,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1746403200000,
+      "value": 285241071947.45074,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1746489600000,
+      "value": 291053725279.0919,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1746576000000,
+      "value": 291638982800.5743,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1746662400000,
+      "value": 310494747205.08844,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1746748800000,
+      "value": 309060819648.74396,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1746835200000,
+      "value": 314233589445.95807,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1746921600000,
+      "value": 312232322221.4491,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1747008000000,
+      "value": 308080273400.3266,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1747094400000,
+      "value": 311954721560.80316,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1747180800000,
+      "value": 310483633553.24084,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1747267200000,
+      "value": 310119272776.75916,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1747353600000,
+      "value": 309295372935.2628,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1747440000000,
+      "value": 308175873981.4909,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1747526400000,
+      "value": 318300685642.9071,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1747612800000,
+      "value": 315494701868.248,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1747699200000,
+      "value": 319004201073.6249,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1747785600000,
+      "value": 326953311098.4403,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1747872000000,
+      "value": 333877259096.1227,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1747958400000,
+      "value": 320472467590.77216,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1748044800000,
+      "value": 321512791182.0679,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1748131200000,
+      "value": 325199035763.25305,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1748217600000,
+      "value": 326554569307.46893,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1748304000000,
+      "value": 325083001066.16736,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1748390400000,
+      "value": 321758700567.27795,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1748476800000,
+      "value": 314424799853.3663,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1748563200000,
+      "value": 310074229471.6053,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1748649600000,
+      "value": 312015686499.70764,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1748736000000,
+      "value": 315262460055.7297,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1748822400000,
+      "value": 314034352062.7433,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1748908800000,
+      "value": 311272846842.42096,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1748995200000,
+      "value": 309019543266.03516,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1749081600000,
+      "value": 299567165131.0528,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1749168000000,
+      "value": 307550476890.7235,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1749254400000,
+      "value": 311101394050.99713,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1749340800000,
+      "value": 311826916925.89606,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1749427200000,
+      "value": 325063600913.2467,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1749513600000,
+      "value": 325161273795.6572,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1749600000000,
+      "value": 320201650040.94965,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1749686400000,
+      "value": 311189900495.73737,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1749772800000,
+      "value": 312462344791.1626,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1749859200000,
+      "value": 310610642850.27594,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1749945600000,
+      "value": 311198464924.10376,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1750032000000,
+      "value": 314618440924.8702,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1750118400000,
+      "value": 307811126703.76624,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1750204800000,
+      "value": 308729663755.5962,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1750291200000,
+      "value": 307896047939.262,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1750377600000,
+      "value": 303890783795.8102,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1750464000000,
+      "value": 300616382224.7525,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1750550400000,
+      "value": 297677156201.89136,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1750636800000,
+      "value": 310037834399.3001,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1750723200000,
+      "value": 312144653503.1261,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1750809600000,
+      "value": 315544918335.071,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1750896000000,
+      "value": 313867467911.57465,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1750982400000,
+      "value": 313306358361.69525,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1751068800000,
+      "value": 314070589985.2963,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1751155200000,
+      "value": 317200568429.0731,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1751241600000,
+      "value": 313204811411.76917,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1751328000000,
+      "value": 308958667019.3387,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1751414400000,
+      "value": 317887909135.49023,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1751500800000,
+      "value": 319875043955.94904,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1751587200000,
+      "value": 315238862150.4782,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1751673600000,
+      "value": 315827086596.3749,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1751760000000,
+      "value": 318699587664.0432,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1751846400000,
+      "value": 315455384099.90454,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1751932800000,
+      "value": 316989988036.5658,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1752019200000,
+      "value": 323586657883.13947,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1752105600000,
+      "value": 337148923553.14325,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1752192000000,
+      "value": 341510486986.07965,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1752278400000,
+      "value": 341397615504.64374,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1752364800000,
+      "value": 346583329714.3954,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1752451200000,
+      "value": 349311386477.50305,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1752537600000,
+      "value": 345613132318.224,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1752624000000,
+      "value": 347221219209.34406,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1752710400000,
+      "value": 348272186234.7215,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1752796800000,
+      "value": 344522840936.4408,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1752883200000,
+      "value": 344055522436.98206,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1752969600000,
+      "value": 342460840393.06836,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1753056000000,
+      "value": 342773155602.64044,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1753142400000,
+      "value": 350110655821.8327,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1753228800000,
+      "value": 346106060997.6645,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1753315200000,
+      "value": 345293542994.475,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1753401600000,
+      "value": 345582535713.29724,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1753488000000,
+      "value": 346542900870.4642,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1753574400000,
+      "value": 351058759986.11945,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1753660800000,
+      "value": 346708360954.5425,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1753747200000,
+      "value": 345160786154.84186,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1753833600000,
+      "value": 344691567865.70935,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1753920000000,
+      "value": 338386556053.3412,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1754006400000,
+      "value": 332946652626.98206,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1754092800000,
+      "value": 330775295569.0314,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1754179200000,
+      "value": 335645379948.272,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1754265600000,
+      "value": 338799715057.8506,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1754352000000,
+      "value": 336086612049.65015,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1754438400000,
+      "value": 338132443629.20593,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1754524800000,
+      "value": 345029871237.9998,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1754611200000,
+      "value": 342402016350.10114,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1754697600000,
+      "value": 341894699229.13727,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1754784000000,
+      "value": 350188892647.13586,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1754870400000,
+      "value": 349250670111.3988,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1754956800000,
+      "value": 353388768428.0202,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1755043200000,
+      "value": 362487598160.22943,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1755129600000,
+      "value": 347985645278.69434,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1755216000000,
+      "value": 345025010051.534,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1755302400000,
+      "value": 344983731425.7072,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1755388800000,
+      "value": 345147062576.33374,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1755475200000,
+      "value": 341258398998.43286,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1755561600000,
+      "value": 331655075362.0499,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1755648000000,
+      "value": 336027400644.5453,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1755734400000,
+      "value": 330660781638.63904,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1755820800000,
+      "value": 344444033698.1442,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1755907200000,
+      "value": 340145560768.98425,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1755993600000,
+      "value": 335364662198.25446,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1756080000000,
+      "value": 325263241347.216,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1756166400000,
+      "value": 330802980423.25903,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1756252800000,
+      "value": 328850541248.7792,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1756339200000,
+      "value": 332765277204.8242,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1756425600000,
+      "value": 320046124365.0984,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1756512000000,
+      "value": 321683082570.13477,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1756598400000,
+      "value": 320522069909.3128,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1756684800000,
+      "value": 323657471728.9729,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1756771200000,
+      "value": 329165859828.55566,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1756857600000,
+      "value": 330457761469.77625,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1756944000000,
+      "value": 327654601312.2905,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1757030400000,
+      "value": 327638734697.10156,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1757116800000,
+      "value": 326235039238.4807,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1757203200000,
+      "value": 329085595229.23,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1757289600000,
+      "value": 331861625524.29755,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1757376000000,
+      "value": 329415147125.35156,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1757462400000,
+      "value": 336698122727.17017,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1757548800000,
+      "value": 340849247961.31396,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1757635200000,
+      "value": 342182947711.999,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1757721600000,
+      "value": 341637998501.5397,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1757808000000,
+      "value": 339266165104.5289,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1757894400000,
+      "value": 338573621954.12335,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1757980800000,
+      "value": 343059040482.0856,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1758067200000,
+      "value": 341756302317.0123,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1758153600000,
+      "value": 343335902209.284,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1758240000000,
+      "value": 338331770774.69696,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1758326400000,
+      "value": 338385372169.2924,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1758412800000,
+      "value": 336821283343.437,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1758499200000,
+      "value": 329139812051.0348,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1758585600000,
+      "value": 327124846027.7651,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1758672000000,
+      "value": 330979137172.4639,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1758758400000,
+      "value": 319054240867.0481,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1758844800000,
+      "value": 320966933421.50183,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1758931200000,
+      "value": 320824193516.51514,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1759017600000,
+      "value": 328208758600.6447,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1759104000000,
+      "value": 335061206731.9142,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1759190400000,
+      "value": 333295575317.94714,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1759276800000,
+      "value": 345658174241.4435,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1759363200000,
+      "value": 350193053731.2778,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1759449600000,
+      "value": 352311398631.26794,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1759536000000,
+      "value": 352978787206.1758,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1759622400000,
+      "value": 356832729228.9639,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1759708800000,
+      "value": 359942152723.3981,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1759795200000,
+      "value": 349879223650.98883,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1759881600000,
+      "value": 355253521068.8372,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1759968000000,
+      "value": 350013943608.0313,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1760054400000,
+      "value": 324402267655.6697,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1760140800000,
+      "value": 318810702888.65607,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1760227200000,
+      "value": 330870483173.9925,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1760313600000,
+      "value": 331222909101.62897,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1760400000000,
+      "value": 324997758258.99207,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1760486400000,
+      "value": 317402231169.27277,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1760572800000,
+      "value": 310502998339.5006,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1760659200000,
+      "value": 305501467155.4615,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1760745600000,
+      "value": 307822388385.85114,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1760832000000,
+      "value": 312011853009.14795,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1760918400000,
+      "value": 317433735560.6199,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1761004800000,
+      "value": 311027759394.591,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1761091200000,
+      "value": 308698983865.42267,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1761177600000,
+      "value": 316325915371.91675,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1761264000000,
+      "value": 318821202260.9021,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1761350400000,
+      "value": 320682471058.9246,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1761436800000,
+      "value": 328638140661.0105,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1761523200000,
+      "value": 326917415324.9855,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1761609600000,
+      "value": 322972400589.93286,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1761696000000,
+      "value": 314591426301.9019,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1761782400000,
+      "value": 310313520486.9027,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1761868800000,
+      "value": 314377648068.6561,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1761955200000,
+      "value": 315667912490.66,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1762041600000,
+      "value": 317130619517.2205,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1762128000000,
+      "value": 305762157043.9106,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1762214400000,
+      "value": 291686947244.59863,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1762300800000,
+      "value": 299154742233.3225,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1762387200000,
+      "value": 291903309764.26,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1762473600000,
+      "value": 297547079685.8029,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1762560000000,
+      "value": 294460784662.02325,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1762646400000,
+      "value": 301356133300.68933,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1762732800000,
+      "value": 305449172890.70764,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1762819200000,
+      "value": 297067346448.1434,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1762905600000,
+      "value": 292526685395.295,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1762992000000,
+      "value": 287143073532.37695,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1763078400000,
+      "value": 272300846697.38666,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1763164800000,
+      "value": 276048637040.65045,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1763251200000,
+      "value": 272374701666.95547,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1763337600000,
+      "value": 266815908673.51938,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1763424000000,
+      "value": 267532827873.4827,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1763510400000,
+      "value": 262990586244.76965,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1763596800000,
+      "value": 249057514729.42484,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1763683200000,
+      "value": 245868207401.9039,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1763769600000,
+      "value": 245055326984.45386,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1763856000000,
+      "value": 250301264519.56985,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1763942400000,
+      "value": 254771804513.46002,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1764028800000,
+      "value": 251839339093.64642,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1764115200000,
+      "value": 260868413438.42288,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1764201600000,
+      "value": 263527565176.65628,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1764288000000,
+      "value": 262154243700.234,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1764374400000,
+      "value": 261766104666.20758,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1764460800000,
+      "value": 260559380996.07227,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1764547200000,
+      "value": 248402200357.05493,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1764633600000,
+      "value": 262439956826.22763,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1764720000000,
+      "value": 268470850329.75058,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1764806400000,
+      "value": 264178015763.42407,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1764892800000,
+      "value": 255995536281.69397,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1764979200000,
+      "value": 256109151422.62308,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1765065600000,
+      "value": 259458292503.3145,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1765152000000,
+      "value": 259481615627.16232,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1765238400000,
+      "value": 265577793653.9426,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1765324800000,
+      "value": 263801961006.78928,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1765411200000,
+      "value": 265135825391.28915,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1765497600000,
+      "value": 258003331444.53305,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1765584000000,
+      "value": 257779180788.58905,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1765670400000,
+      "value": 251986615240.08456,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1765756800000,
+      "value": 247291835226.8782,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1765843200000,
+      "value": 251523188300.441,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1765929600000,
+      "value": 247378044244.67484,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1766016000000,
+      "value": 245470449755.3159,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1766102400000,
+      "value": 253096015800.92654,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1766188800000,
+      "value": 253334075332.61316,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1766275200000,
+      "value": 254704661233.9825,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1766361600000,
+      "value": 254254243344.64407,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1766448000000,
+      "value": 250884055202.52737,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1766534400000,
+      "value": 251396869461.38992,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1766620800000,
+      "value": 251541616142.769,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1766707200000,
+      "value": 250521195195.30444,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1766793600000,
+      "value": 252045546313.275,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1766880000000,
+      "value": 252364596960.58057,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1766966400000,
+      "value": 250078069626.5396,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1767052800000,
+      "value": 253597464139.7078,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1767139200000,
+      "value": 250848487654.14395,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1767225600000,
+      "value": 254199312862.0127,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1767312000000,
+      "value": 257402066509.9492,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1767398400000,
+      "value": 259392568454.95712,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1767484800000,
+      "value": 261645147608.03973,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1767571200000,
+      "value": 268158880966.44662,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1767657600000,
+      "value": 267714430593.7776,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1767744000000,
+      "value": 260916012940.0439,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1767830400000,
+      "value": 260371705195.84158,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1767916800000,
+      "value": 259180420187.88858,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1768003200000,
+      "value": 258811189485.42807,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1768089600000,
+      "value": 260430804805.28522,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1768176000000,
+      "value": 261461764165.73035,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1768262400000,
+      "value": 272850362955.69794,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1768348800000,
+      "value": 276534418566.3723,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1768435200000,
+      "value": 272498414865.2793,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1768521600000,
+      "value": 272546482617.47412,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1768608000000,
+      "value": 271317868318.27667,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1768694400000,
+      "value": 267081037870.59924,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1768780800000,
+      "value": 264107431857.23917,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1768867200000,
+      "value": 253004099807.74768,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1768953600000,
+      "value": 256044799026.12607,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1769040000000,
+      "value": 256614003709.5753,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1769126400000,
+      "value": 256838865421.14224,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1769212800000,
+      "value": 255817700975.64597,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1769299200000,
+      "value": 248629693524.51953,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1769385600000,
+      "value": 253165216131.97034,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1769472000000,
+      "value": 255723348393.78696,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1769558400000,
+      "value": 255943901543.3827,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1769644800000,
+      "value": 242831634323.15167,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1769731200000,
+      "value": 242143239413.84235,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1769817600000,
+      "value": 227418742994.41312,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1769904000000,
+      "value": 222562808022.82678,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1769990400000,
+      "value": 227863698337.59122,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1770076800000,
+      "value": 218852274134.3206,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1770163200000,
+      "value": 211469437775.52075,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1770249600000,
+      "value": 182652868974.95215,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1770336000000,
+      "value": 204871576428.42236,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1770422400000,
+      "value": 201039676830.8901,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1770508800000,
+      "value": 203729172303.65198,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1770595200000,
+      "value": 202660512837.70065,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1770681600000,
+      "value": 198807190176.34058,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1770768000000,
+      "value": 193921086997.23077,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1770854400000,
+      "value": 191996505159.6092,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1770940800000,
+      "value": 199705541903.68573,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1771027200000,
+      "value": 202881174251.1173,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1771113600000,
+      "value": 199928917346.89267,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1771200000000,
+      "value": 200087028262.7444,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1771286400000,
+      "value": 196241169147.13544,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1771372800000,
+      "value": 192672244560.26804,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1771459200000,
+      "value": 194492789310.4979,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1771545600000,
+      "value": 197470263039.73834,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1771632000000,
+      "value": 197420990010.51025,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1771718400000,
+      "value": 196472488530.17273,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1771804800000,
+      "value": 187761871441.766,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1771891200000,
+      "value": 186069599518.0638,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1771977600000,
+      "value": 197020567905.20068,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1772064000000,
+      "value": 195400508104.22546,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1772150400000,
+      "value": 190560549775.39484,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1772236800000,
+      "value": 193647809343.58984,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1772323200000,
+      "value": 190149560412.01508,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1772409600000,
+      "value": 198547407116.45392,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1772496000000,
+      "value": 196806934829.09372,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1772582400000,
+      "value": 208908037277.48773,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1772668800000,
+      "value": 203317849004.5337,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1772755200000,
+      "value": 195525704985.91443,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1772841600000,
+      "value": 193112410156.42633,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1772928000000,
+      "value": 189537887736.58344,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1773014400000,
+      "value": 196458202701.3146,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1773100800000,
+      "value": 200536139407.30478,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1773187200000,
+      "value": 200640565382.3197,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1773273600000,
+      "value": 200797189349.92972,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1773360000000,
+      "value": 201477282815.55817,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1773446400000,
+      "value": 202358113004.04877,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1773532800000,
+      "value": 207844397784.80905,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1773619200000,
+      "value": 212120804939.927,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1773705600000,
+      "value": 209090415633.45694,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1773792000000,
+      "value": 201407763854.55264,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1773878400000,
+      "value": 197495645869.2194,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1773964800000,
+      "value": 199250822612.37744,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1774051200000,
+      "value": 194803402419.19748,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1774137600000,
+      "value": 191892578265.75995,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1774224000000,
+      "value": 200101625210.56558,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1774310400000,
+      "value": 198670178068.06894,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1774396800000,
+      "value": 200688220325.97684,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1774483200000,
+      "value": 193678423319.3189,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1774569600000,
+      "value": 187195628894.87238,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1774656000000,
+      "value": 187206612639.6339,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1774742400000,
+      "value": 186179288370.56628,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1774828800000,
+      "value": 188737115357.91464,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1774915200000,
+      "value": 192899413759.4675,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1775001600000,
+      "value": 192445375468.52545,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1775088000000,
+      "value": 189128476139.61755,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1775174400000,
+      "value": 189329935042.70175,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1775260800000,
+      "value": 190257109353.26144,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1775347200000,
+      "value": 195054850508.8924,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1775433600000,
+      "value": 194761955089.8979,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1775520000000,
+      "value": 203155811462.62912,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1775606400000,
+      "value": 200997864434.5772,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1775692800000,
+      "value": 202741843987.84793,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1775779200000,
+      "value": 205544228913.8447,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1775865600000,
+      "value": 205771615442.66434,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1775952000000,
+      "value": 199245204157.27698,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1776038400000,
+      "value": 208854602857.27252,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1776124800000,
+      "value": 207538226395.569,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1776211200000,
+      "value": 208523757523.36508,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1776297600000,
+      "value": 209418655700.1276,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1776384000000,
+      "value": 214989962547.7642,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1776470400000,
+      "value": 211161868799.17795,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1776556800000,
+      "value": 205866932087.89114,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1776643200000,
+      "value": 211362872539.01343,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1776729600000,
+      "value": 212440391536.98215,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1776816000000,
+      "value": 217443089492.27774,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1776902400000,
+      "value": 217616300350.05392,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1776988800000,
+      "value": 215543759569.01495,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1777075200000,
+      "value": 215988804301.34598,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1777161600000,
+      "value": 218860671197.4794,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1777248000000,
+      "value": 215120138258.52197,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1777334400000,
+      "value": 212481301394.36475,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1777420800000,
+      "value": 211010918497.16174,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1777507200000,
+      "value": 212853657008.39017,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1777593600000,
+      "value": 218145300235.95663,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1777680000000,
+      "value": 219381618643.48596,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1777766400000,
+      "value": 219058872382.72116,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1777852800000,
+      "value": 222229563604.67587,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1777939200000,
+      "value": 224909012542.41364,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1778025600000,
+      "value": 226228252142.83682,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1778112000000,
+      "value": 222518680369.1671,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1778198400000,
+      "value": 223325161246.76077,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1778284800000,
+      "value": 224650167111.23917,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1778371200000,
+      "value": 228866745874.0156,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1778457600000,
+      "value": 227775170367.35297,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1778544000000,
+      "value": 224245783297.38458,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1778630400000,
+      "value": 221226296017.98315,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1778716800000,
+      "value": 226473913084.03427,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1778803200000,
+      "value": 220154802477.89536,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1778889600000,
+      "value": 217495552114.8419,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1778976000000,
+      "value": 215648960313.08563,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1779062400000,
+      "value": 214969638414.9646,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1779148800000,
+      "value": 214672209794.299,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1779235200000,
+      "value": 217039205910.37363,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1779321600000,
+      "value": 217503036087.26306,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1779408000000,
+      "value": 211647218471.83258,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1779494400000,
+      "value": 215195868216.72818,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1779580800000,
+      "value": 216252983801.22763,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1779667200000,
+      "value": 217058098551.98636,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1779753600000,
+      "value": 213206771199.64978,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1779840000000,
+      "value": 209492718821.4204,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1779926400000,
+      "value": 207875622457.3077,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1780012800000,
+      "value": 207646415484.5254,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1780099200000,
+      "value": 208868575344.93387,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1780185600000,
+      "value": 208404394577.7315,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1780272000000,
+      "value": 202189337726.41522,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1780358400000,
+      "value": 189623917922.79044,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1780444800000,
+      "value": 182661437437.92645,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1780531200000,
+      "value": 182315996116.70975,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1780617600000,
+      "value": 174323575249.7924,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1780704000000,
+      "value": 173865577475.1943,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1780790400000,
+      "value": 180817529619.433,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1780876800000,
+      "value": 179789075768.0548,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1780963200000,
+      "value": 175964088609.72855,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1781049600000,
+      "value": 175177528319.6053,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1781136000000,
+      "value": 181225273244.4194,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1781222400000,
+      "value": 180824958627.36472,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1781308800000,
+      "value": 183197736866.62076,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1781395200000,
+      "value": 186835465248.09665,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1781481600000,
+      "value": 188297471891.17267,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1781568000000,
+      "value": 186423383115.36874,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1781654400000,
+      "value": 183142505776.13196,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1781740800000,
+      "value": 178824053690.4031,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1781827200000,
+      "value": 180414229023.49548,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1781913600000,
+      "value": 182600591443.48856,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1782000000000,
+      "value": 179757092909.25806,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1782086400000,
+      "value": 181935534862.8135,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1782172800000,
+      "value": 178150112109.21902,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1782259200000,
+      "value": 173578861235.80667,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1782345600000,
+      "value": 170313393250.38367,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1782432000000,
+      "value": 171502461176.24454,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1782518400000,
+      "value": 171284150352.5981,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1782604800000,
+      "value": 169897261909.32028,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1782691200000,
+      "value": 172115764070.42004,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1782777600000,
+      "value": 167340785747.92902,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1782864000000,
+      "value": 171623723652.0097,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1782950400000,
+      "value": 176346804697.5683,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1783036800000,
+      "value": 179247950262.82202,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1783123200000,
+      "value": 180928832431.28476,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1783209600000,
+      "value": 182372345860.56818,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1783296000000,
+      "value": 183423272249.05817,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1783382400000,
+      "value": 181404387119.72952,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1783468800000,
+      "value": 178220448427.4929,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1783555200000,
+      "value": 180994407915.13882,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1783641600000,
+      "value": 183518421782.51868,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1783728000000,
+      "value": 182534220048.7375,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1783814400000,
+      "value": 182447808472.39227,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1783900800000,
+      "value": 178189489330.79727,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1783987200000,
+      "value": 186273383198.19672,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1784073600000,
+      "value": 185329656561.86148,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1784160000000,
+      "value": 182679102060.73376,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1784246400000,
+      "value": 182945284964.0527,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1784332800000,
+      "value": 185532734430.82047,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1784419200000,
+      "value": 185309533763.40973,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1784505600000,
+      "value": 186679038365.6622,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1784592000000,
+      "value": 190378168945.92026,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1784678400000,
+      "value": 189003592656.48642,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1784764800000,
+      "value": 186228215524.1638,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1784851200000,
+      "value": 183695361926.59686,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1784937600000,
+      "value": 184338191460.6796,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1785024000000,
+      "value": 187333289740.77658,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1785110400000,
+      "value": 182888964211.9612,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1785196800000,
+      "value": 183446221588.66177,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1785283200000,
+      "value": 183859405825.81943,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1785369600000,
+      "value": 186512814143.56186,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1785456000000,
+      "value": 181509618656.26215,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1785542400000,
+      "value": 181453091973.97763,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1785628800000,
+      "value": 183720796151.97565,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1785715200000,
+      "value": 183927873772.1852,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1785801600000,
+      "value": 185358794585.11615,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1785888000000,
+      "value": 186570293642.06155,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1785974400000,
+      "value": 185550960708.56802,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1786060800000,
+      "value": 187530701971.32745,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1786147200000,
+      "value": 187562428281.17807,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1786233600000,
+      "value": 187510117633.618,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1786320000000,
+      "value": 185019886739.07275,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1786406400000,
+      "value": 184045396912.76428,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1786492800000,
+      "value": 183901397304.20203,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1786579200000,
+      "value": 184113912009.18268,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1786665600000,
+      "value": 183022758375.6191,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1786752000000,
+      "value": 183181842550.14645,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1786838400000,
+      "value": 182602070161.15796,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1786924800000,
+      "value": 187461750301.0851,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1787011200000,
+      "value": 187772536069.26398,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1787097600000,
+      "value": 200992769142.01846,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1787184000000,
+      "value": 211049331962.37854,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1787270400000,
+      "value": 226448336981.80972,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1787356800000,
+      "value": 223320703698.77188,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1787443200000,
+      "value": 225255277176.6822,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1787529600000,
+      "value": 228417048862.48843,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1787616000000,
+      "value": 227032877957.03375,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1787702400000,
+      "value": 227817876496.24023,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1787788800000,
+      "value": 231167998618.40402,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1787875200000,
+      "value": 223933833080.73447,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1787961600000,
+      "value": 225073998829.6887,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1788048000000,
+      "value": 223444544421.93307,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1788134400000,
+      "value": 225916630982.29895,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1788220800000,
+      "value": 222630551938.33414,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1788307200000,
+      "value": 222572430952.2866,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1788393600000,
+      "value": 234124951008.73923,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1788480000000,
+      "value": 229110931406.67007,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1788566400000,
+      "value": 229404238952.1681,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1788652800000,
+      "value": 230937432250.7096,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1788739200000,
+      "value": 227356167280.16507,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1788825600000,
+      "value": 225753445270.48938,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1788912000000,
+      "value": 225468601906.3304,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1788998400000,
+      "value": 220184421160.62805,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1789084800000,
+      "value": 222263623762.7831,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1789171200000,
+      "value": 222452084886.9297,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1789257600000,
+      "value": 221168138340.83087,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1789344000000,
+      "value": 225197402924.67688,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1789430400000,
+      "value": 218159104576.20627,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1789516800000,
+      "value": 219830992711.94113,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1789603200000,
+      "value": 220783847835.28287,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1789689600000,
+      "value": 234122599264.41693,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1789776000000,
+      "value": 235338491454.6484,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1789862400000,
+      "value": 235186727328.75595,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1789948800000,
+      "value": 250872558435.134,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1790035200000,
+      "value": 249013518085.24387,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1790121600000,
+      "value": 243429041013.8446,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1790208000000,
+      "value": 242947235536.51596,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1790294400000,
+      "value": 241770905831.82623,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1790380800000,
+      "value": 242691377024.25198,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1790467200000,
+      "value": 242681929053.8902,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1790553600000,
+      "value": 239779191047.39368,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1790640000000,
+      "value": 240367224473.8124,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1790726400000,
+      "value": 239693197482.19876,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1790812800000,
+      "value": 243442496360.0699,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1790899200000,
+      "value": 242257119227.13983,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1790985600000,
+      "value": 242847908891.45865,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1791072000000,
+      "value": 247872869194.86893,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1791158400000,
+      "value": 245548478175.20227,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1791244800000,
+      "value": 243618453651.9764,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1791331200000,
+      "value": 237574365215.56207,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1791417600000,
+      "value": 233429632404.50272,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1791504000000,
+      "value": 236286397862.3407,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1791590400000,
+      "value": 237519169864.23187,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1791676800000,
+      "value": 239738108410.59253,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1791763200000,
+      "value": 234212680133.25455,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1791849600000,
+      "value": 238091133032.93018,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1791936000000,
+      "value": 233631839078.07483,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1792022400000,
+      "value": 235705030025.22153,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1792108800000,
+      "value": 233919662751.5324,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1792195200000,
+      "value": 233705208519.01923,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1792281600000,
+      "value": 235382871557.4205,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1792368000000,
+      "value": 235115586613.66132,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1792454400000,
+      "value": 238743897605.0573,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1792540800000,
+      "value": 241616202178.79672,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1792627200000,
+      "value": 233439378979.552,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1792713600000,
+      "value": 233186050682.04605,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1792800000000,
+      "value": 232400725717.91815,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1792886400000,
+      "value": 230295909408.95468,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1792972800000,
+      "value": 230842353967.28354,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1793059200000,
+      "value": 232067575858.31357,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1793145600000,
+      "value": 233581748143.98904,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1793232000000,
+      "value": 222279369703.8301,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1793318400000,
+      "value": 220531567517.0676,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1793404800000,
+      "value": 220620313495.7666,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1793491200000,
+      "value": 221714947846.84808,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1793577600000,
+      "value": 217250818598.99228,
+      "last_modified": 1793752411182
+    },
+    {
+      "timestamp": 1793664000000,
+      "value": 220056031859.48816,
+      "last_modified": 1793753115787
+    },
+    {
+      "timestamp": 1793750400000,
+      "value": 228423784020.78598,
+      "last_modified": 1793839544403
+    },
+    {
+      "timestamp": 1793836800000,
+      "value": 215429672578.1391,
+      "last_modified": 1793925231740
+    },
+    {
+      "timestamp": 1793923200000,
+      "value": 214699107073.15878,
+      "last_modified": 1794013502947
+    },
+    {
+      "timestamp": 1794009600000,
+      "value": 214675844339.3871,
+      "last_modified": 1794017173487
+    }
+  ]
+}
